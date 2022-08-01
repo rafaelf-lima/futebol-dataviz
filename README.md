@@ -3,6 +3,9 @@ Projetos e visualizações de dados aplicado ao futebol. Todas as visualizaçõe
 
 
 Algumas fontes utilizadas para coleta de dados: 
+
 fbref.com
+
 understat.com
+
 transfermarkt.com
